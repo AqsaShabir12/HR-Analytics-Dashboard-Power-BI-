@@ -1,16 +1,16 @@
-# 🧠 HR Analytics Dashboard (Power BI)
+# HR Analytics Dashboard (Power BI)
 
 This project presents a Power BI dashboard developed to extract meaningful insights from employee data. It helps organizations monitor attrition trends, job satisfaction, workforce distribution, and demographics to improve HR decision-making and employee retention.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To explore key drivers of employee attrition and workforce performance, enabling actionable strategies to optimize recruitment, satisfaction, and retention.
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 - **Source File**: `HR_Analytics.csv`
 - **Total Employees**: 1,413  
@@ -18,7 +18,7 @@ To explore key drivers of employee attrition and workforce performance, enabling
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Attrition Rate**: 16.2% (229 employees left)
 - **Average Age**: 37 years  
@@ -31,7 +31,7 @@ To explore key drivers of employee attrition and workforce performance, enabling
 
 ---
 
-## 🧰 Tools & Techniques
+## Tools & Techniques
 
 - **Excel**: Data cleaning and preparation  
 - **Power BI**: Data modeling and interactive dashboard creation  
@@ -42,7 +42,7 @@ To explore key drivers of employee attrition and workforce performance, enabling
 
 ---
 
-## 💡 Features
+## Features
 
 - Filters to view data by department, gender, job role
 - Visual tracking of attrition by salary, age group, and years at company
@@ -53,6 +53,6 @@ To explore key drivers of employee attrition and workforce performance, enabling
 
 ## 📸 Preview
 
-![Ecommerce Dashboard](./ecommerce_dashboard.png)
+![Ecommerce Dashboard](./HR_ANALYTICS_DASHBOARD.jpg)
 
 ---
