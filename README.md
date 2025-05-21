@@ -51,7 +51,7 @@ To explore key drivers of employee attrition and workforce performance, enabling
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Ecommerce Dashboard](./HR_ANALYTICS_DASHBOARD.jpg)
 
